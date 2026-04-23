@@ -1,7 +1,5 @@
 # SafeStep by Chronos
 
-[![-----------------------------------------------------](https://via.placeholder.com/800x4/2563eb/FFFFFF?text=+)](#)
-
 <p align="center">
   <img src="logo.png" alt="Chronos Logo" width="200"/>
 </p>
@@ -161,5 +159,3 @@ Desarrollado por el equipo **Chronos** de la Universidad Peruana de Ciencias Apl
 Este proyecto es parte de un proyecto académico. Todos los derechos reservados.
 
 ---
-
-[![-----------------------------------------------------](https://via.placeholder.com/800x4/2563EB/FFFFFF?text=+)](#)
