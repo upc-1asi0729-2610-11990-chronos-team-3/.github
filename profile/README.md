@@ -1,7 +1,7 @@
 # SafeStep by Chronos
 
 <p align="center">
-  <img src="logo.png" alt="Chronos Logo" width="200"/>
+  <img src="../logo.png" alt="Chronos Logo" width="200"/>
 </p>
 
 <p align="center">
